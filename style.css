@@ -1,0 +1,32 @@
+body{
+	background-color: #414141;
+	font-family: sans-serif;
+}
+
+h1{
+	color: white;
+	text-align: center;
+}
+
+h3{
+	color: white;
+	text-align: center;
+}
+
+h2{
+	color: white;
+}
+
+a{
+	color: white;
+}
+
+p{
+	color: white;
+}
+
+.mainzag{
+	background-color: #323840;
+	border: 3px solid grey;
+	border-radius: 6px;
+}
